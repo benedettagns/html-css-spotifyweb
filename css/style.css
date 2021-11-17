@@ -52,3 +52,20 @@
     height: 90px;
     background-color: sienna;
 }
+
+
+
+/* md */
+@media screen and (max-width: 1000px) and (min-width: 576px) {
+    
+}
+
+/* s */
+@media screen and (max-width: 575px) {
+    
+}
+
+/* xs */
+@media screen and () {
+    
+}
