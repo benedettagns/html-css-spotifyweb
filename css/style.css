@@ -12,20 +12,24 @@
     display: flex;
 }
 
-.row {
+.sidebar{
     background-color: brown;
     width: 20%;
     height: 650px;
 }
 
-.sidebar {
+.row {
+    height: 50px;
+    background-color: tan;
+}
+
+.albums-content {
     background-color: maroon;
     width: 80%;
     height: 650px;
 }
 
 .navbar {
-    display: flex;
     background-color: red;
     height: 90px;
 }
