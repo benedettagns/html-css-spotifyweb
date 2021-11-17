@@ -59,13 +59,22 @@
 @media screen and (max-width: 992px) and (min-width: 769px) {
 
    .box-center {
-       margin: 0 150px 0 150px;
+       margin: 0 190px 0 190px;
+       width: 200px;
    } 
+
+   .box-right {
+       width: 200px;
+   }
+
+   .box-left {
+    width: 200px;
+}
 }
 
 /* s */
 @media screen and (max-width: 768px) and (min-width: 577px) {
-    
+
     .box-center {
         margin: 0 80px 0 80px;
     } 
