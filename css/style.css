@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+}
+
+.flex {
+    display: flex;
+}
+
+.row {
+    background-color: brown;
+    width: 20%;
+    height: 650px;
+}
+
+.sidebar {
+    background-color: maroon;
+    width: 80%;
+    height: 650px;
+}
+
+.navbar {
+    background-color: red;
+    height: 90px;
+}
