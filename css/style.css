@@ -25,6 +25,28 @@
 }
 
 .navbar {
+    display: flex;
     background-color: red;
     height: 90px;
+}
+
+.box-left {
+    margin-right: 100px;
+    width: 300px;
+    height: 90px;
+    background-color: sienna;
+}
+
+.box-center {
+    margin-right: 100px;
+    width: 300px;
+    height: 90px;
+    background-color: sienna;
+}
+
+.box-right {
+    margin-right: 100px;
+    width: 300px;
+    height: 90px;
+    background-color: sienna;
 }
