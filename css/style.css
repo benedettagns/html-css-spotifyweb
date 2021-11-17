@@ -65,6 +65,7 @@
 
 /* s */
 @media screen and (max-width: 768px) and (min-width: 577px) {
+    
     .box-center {
         margin: 0 80px 0 80px;
     } 
@@ -72,6 +73,7 @@
 
 /* xs */
 @media screen and (max-width:576) {
+
     .box-center {
         margin: 0 20px 0 20px;
     } 
