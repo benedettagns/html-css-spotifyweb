@@ -48,12 +48,12 @@
     height: 90px;
     background-color: sienna;
 }
-/* width in percenuale*/
+
 .box-center {
-    width: calc(100% - 500px);
     flex-grow: 1;
-    margin: 0 250px 0 250px;
     height: 90px;
+    width: calc(100% - 500px);
+    margin: 0 250px 0 250px;
     background-color: sienna;
 }
 
