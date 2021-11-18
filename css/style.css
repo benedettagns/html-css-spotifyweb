@@ -136,7 +136,7 @@ a {
     width: 250px;
     max-width: calc(100% / 3) ;
     height: 100%;
-    background-color: sienna;
+    background-color: rgb(48, 48, 48);
 }
 
 .box-center {
