@@ -23,8 +23,27 @@
     height: 100%;
 }
 
-.row {
+.box-logo {
+    width: 100%;
+    height: 50px;
+    background-color: crimson;
+}
+
+.menu {
+    width: 100%;
+    height: 80px;
+    background-color: darkgrey;
+}
+
+.playlist {
+    width: 100%;
+    height: calc(100% - 130px);
+    background-color: black;
+}
+
+.row { 
     position: fixed;
+    top:0;
     height: 50px;
     background-color: tan;
     width: 100%;
@@ -35,6 +54,14 @@
     width: calc(100% - 250px);
     height: 100%;
     overflow-y: scroll;
+    padding-top: 100px;
+}
+
+.albums {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: chocolate;
 }
 
 .navbar {
