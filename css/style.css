@@ -28,6 +28,10 @@ a {
     color: white;
 }
 
+.grey {
+    color: grey;
+}
+
 /*------sidebar-------------*/
 
 .sidebar{
@@ -70,7 +74,14 @@ a {
     width: 100%;
     height: calc(100% - 260px);
     background-color: black;
-    padding-left: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.playlist h1 {
+    padding-bottom: 20px;
+}
+.playlist p {
+    padding-top: 10px;
 }
 
 .playlist h1 {
@@ -129,9 +140,8 @@ a {
 
 .albums {
     width: 150px;
-    height: 150px;
+    height: 200px;
     margin: 10px;
-    background-color: chocolate;
 }
 
 .opzioni {
@@ -145,10 +155,16 @@ a {
 
 h2 {
    width: 100%;
+   margin-top: 50px;
+   margin-left: 20px;
 }
 
 .albums img {
     width: 150px;
+}
+
+.circle {
+    border-radius: 50%;
 }
 
 /*--------footer--------------*/
